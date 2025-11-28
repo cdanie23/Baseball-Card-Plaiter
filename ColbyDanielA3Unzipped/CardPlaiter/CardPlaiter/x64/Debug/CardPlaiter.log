@@ -1,0 +1,15 @@
+﻿  FileReader.cpp
+  FileWriter.cpp
+  BaseballCard.cpp
+C:\Users\Colby\Desktop\Submited PJs\ColbyDanielA3Unzipped\CardPlaiter\CardPlaiter\CardPlaiter\Model\BaseballCard.cpp(111,23): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Colby\Desktop\Submited PJs\ColbyDanielA3Unzipped\CardPlaiter\CardPlaiter\CardPlaiter\Model\BaseballCard.cpp(120,23): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  PlaitedLinkedList.cpp
+  Utils.cpp
+  AddCard.cpp
+  DeleteCard.cpp
+  MainForm.cpp
+C:\Users\Colby\Desktop\Submited PJs\ColbyDanielA3Unzipped\CardPlaiter\CardPlaiter\CardPlaiter\View\MainForm.cpp(39,55): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  FileReader.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CardPlaiter.vcxproj -> C:\Users\Colby\Desktop\Submited PJs\ColbyDanielA3Unzipped\CardPlaiter\x64\Debug\CardPlaiter.exe

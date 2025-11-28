@@ -1,0 +1,4 @@
+C:\Users\dyoder\Desktop\CS3202\Code\CardPlaiter\CardPlaiter\CardPlaiter\x64\Debug\CardPlaiter.vcxproj.AssemblyReference.cache
+C:\Users\dyoder\Desktop\CS3202\Code\CardPlaiter\CardPlaiter\CardPlaiter\x64\Debug\CardPlaiter.CardPlaiter.View.AddCard.resources
+C:\Users\dyoder\Desktop\CS3202\Code\CardPlaiter\CardPlaiter\CardPlaiter\x64\Debug\CardPlaiter.CardPlaiter.View.MainForm.resources
+C:\Users\dyoder\Desktop\CS3202\Code\CardPlaiter\CardPlaiter\CardPlaiter\x64\Debug\CardPlaiter.vcxproj.GenerateResource.cache

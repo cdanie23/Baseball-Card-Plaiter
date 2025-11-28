@@ -1,0 +1,4 @@
+C:\Users\Colby\Desktop\Submited PJs\ColbyDanielA3Unzipped\CardPlaiter\CardPlaiter\x64\Debug\CardPlaiter.vcxproj.AssemblyReference.cache
+C:\Users\Colby\Desktop\Submited PJs\ColbyDanielA3Unzipped\CardPlaiter\CardPlaiter\x64\Debug\CardPlaiter.CardPlaiter.View.AddCard.resources
+C:\Users\Colby\Desktop\Submited PJs\ColbyDanielA3Unzipped\CardPlaiter\CardPlaiter\x64\Debug\CardPlaiter.CardPlaiter.View.MainForm.resources
+C:\Users\Colby\Desktop\Submited PJs\ColbyDanielA3Unzipped\CardPlaiter\CardPlaiter\x64\Debug\CardPlaiter.vcxproj.GenerateResource.cache

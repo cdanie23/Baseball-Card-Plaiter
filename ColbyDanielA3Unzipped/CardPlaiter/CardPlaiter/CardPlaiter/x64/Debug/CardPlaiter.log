@@ -1,0 +1,4 @@
+﻿  MainForm.cpp
+C:\Users\dyoder\Desktop\CS3202\Code\CardPlaiter\CardPlaiter\CardPlaiter\View\MainForm.cpp(30,55): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  BaseballCard.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CardPlaiter.vcxproj -> C:\Users\dyoder\Desktop\CS3202\Code\CardPlaiter\CardPlaiter\x64\Debug\CardPlaiter.exe
